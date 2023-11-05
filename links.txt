@@ -1,0 +1,4 @@
+https://www.reddit.com/r/reactjs/comments/s2wbfx/jsts_frameworks_file_naming_convention_camelcase/
+https://stackoverflow.com/questions/17622906/updating-file-names-in-git-from-camel-case-to-all-lower-case
+https://stackoverflow.com/questions/43973199/file-naming-conventions-in-reactjs
+https://answers.netlify.com/t/support-guide-netlify-app-builds-locally-but-fails-on-deploy-case-sensitivity/10754
