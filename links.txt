@@ -2,3 +2,9 @@ https://www.reddit.com/r/reactjs/comments/s2wbfx/jsts_frameworks_file_naming_con
 https://stackoverflow.com/questions/17622906/updating-file-names-in-git-from-camel-case-to-all-lower-case
 https://stackoverflow.com/questions/43973199/file-naming-conventions-in-reactjs
 https://answers.netlify.com/t/support-guide-netlify-app-builds-locally-but-fails-on-deploy-case-sensitivity/10754
+
+locally it worked but on deployment. it didn't work because of git ignoring the case (even though i can make it work in my computer, but what if I am working with team of developers) 
+so if you locally changed it to LoginForm to loginForm, git willn't detect it and it will not be updated into your repository
+so this can lead to deployment issues and so on
+
+After considering all of this things, I am moving to kebab case for my file names  (also kebab-case looks good to me)
